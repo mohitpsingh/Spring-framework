@@ -12,7 +12,7 @@ public class AppConfig {
     }
 
     @Bean
-    public Car insaanCar() {
-        return new Car("Nisaan", 23222);
+    public Car toyotaCar() {
+        return new Car("Toyota", 23222);
     }
 }
